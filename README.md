@@ -16,5 +16,5 @@ They said,
 But we just don't _care_.
 
 ### Second amendment:
-So be it.
+So be it.<br>
 And finally log, that is, [pelican](laskarit/viikko1/gitlog.txt) in the turbine.
