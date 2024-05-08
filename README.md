@@ -3,7 +3,6 @@
 ## For those who care
 
 ### First amendment:
-
 Nothing particular here, but
 **this is _extremely_ important!**
 
@@ -17,7 +16,5 @@ They said,
 But we just don't _care_.
 
 ### Second amendment:
-
 So be it.
-
-Log, that is, [pelican](laskarit/viikko1/gitlog.txt) in the turbine.
+And finally log, that is, [pelican](laskarit/viikko1/gitlog.txt) in the turbine.
