@@ -1,11 +1,11 @@
-#Notion on transparency
+# Notion on transparency
 
-##For those who care
+## For those who care
 
-#First amendment:
+# First amendment:
 
 Nothing particular here, but
-**this is __extremely__ important!
+**this is __extremely__ important!**
 
 This was ***very*** important as well,
 but we decided to ~~censor~~ part of it.
@@ -16,6 +16,6 @@ They said,
 
 But we just don't __care__.
 
-#Second amendment:
+# Second amendment:
 
 So be it.
