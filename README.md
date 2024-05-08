@@ -20,4 +20,4 @@ But we just don't _care_.
 
 So be it.
 
-Log, that is [pelican](laskarit/viikko1/gitlog.txt) in the turbine.
+Log, that is, [pelican](laskarit/viikko1/gitlog.txt) in the turbine.
